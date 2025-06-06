@@ -1,0 +1,6 @@
+- Lên SEARCH GÕ cmd RỒI gõ dòng dưới 
+pip install Flask
+
+- xong rồi thì mở app.py để lên visual bấm chạy chương trình 
+hiện dòng TERMINAL ở dưới 
+ + THẤY DÒNG Running on THÌ NHẤN GIỮ CTRL RỒI CLICK VÀ DÒNG http://...... 
